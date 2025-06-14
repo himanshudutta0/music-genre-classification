@@ -1,5 +1,5 @@
-streamlit
-tensorflow==2.13.0
+streamlit==1.25.0
+tensorflow-cpu==2.13.0
 librosa
+matplotlib
 numpy
-gdown
